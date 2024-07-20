@@ -17,17 +17,22 @@
 
 ```
 Tech enthusiast, software architect and tech researcher. 
-With +7 of experience as a Senior Developer, I have honed a diverse skill set that spans across various technologies and platforms.
-My proficiency in both front-end and back-end development enables me to create high-performing, user-friendly web applications.
-I am passionate about leveraging my skills to develop innovative solutions that meet client needs and drive business growth.
+With +7 of experience as a Senior Developer, I have honed a diverse skill set that spans
+across various technologies and platforms.
+My proficiency in both front-end and back-end development enables me to create high-performing,
+user-friendly web applications.
+I am passionate about leveraging my skills to develop innovative solutions that meet client
+needs and drive business growth.
 Let’s connect and explore how I can contribute to your team’s success.
 
 ✔️ Front-End Development
-ReactJs - ReactNative - NextJS - Tailwind - MUI - Antd - Bootstrap : Crafting dynamic, pixel-perfect,
-and high-performance interfaces with modern, intuitive UI/UX, ensuring optimal user experiences across all devices.
+ReactJs - ReactNative - NextJS - Tailwind - MUI - Antd - Bootstrap : Crafting dynamic,
+pixel-perfect, and high-performance interfaces with modern, intuitive UI/UX,
+ensuring optimal user experiences across all devices.
 
 ✔️Back-End Development → 
-NodeJs | ExpressJs | NestJS | PHP | CodeIgniter : Crafting robust APIs, server-side logic, and efficient applications.
+NodeJs | ExpressJs | NestJS | PHP | CodeIgniter : Crafting robust APIs, server-side logic,
+and efficient applications.
 
 ✔️Database Management → 
 * Relational Databases : MySQL, MariaDB, PostgreSQL, SQLite
