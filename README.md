@@ -5,21 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omoctar-mufin" alt="omoctar-mufin" /></a> </p>
 
-**omoctar-mufin/omoctar-mufin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning python, tensorflow , jenkins
-- 👯 I’m looking to collaborate on b
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about React
+- 🔭 I’m currently working on NestJS , NextJs , ReactNative Expo, Database Modeling and DevOps.
+- 🌱 I’m currently learning Python, Tensorflow , AI and Devops
+- 👯 I’m looking to collaborate on web application, Mobile app, 
+- 💬 Currently Working at [MustFinTech](https://mufin.co.kr/) 
 - 📫 How to reach me: moctarosseni00@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Can Breakdance 🕺
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-### [Download CV](https://drive.google.com/file/d/1XFUo9-FJO5YQoztgRWxFMENeAr2rM9mO/view?usp=sharing)
 
 ```
 Tech enthusiast, software architect and tech researcher. 
@@ -29,7 +23,8 @@ I am passionate about leveraging my skills to develop innovative solutions that 
 Let’s connect and explore how I can contribute to your team’s success.
 
 ✔️ Front-End Development
-ReactJs - ReactNative - NextJS - Tailwind - MUI - Antd - Bootstrap : Crafting dynamic, pixel-perfect, and high-performance interfaces with modern, intuitive UI/UX, ensuring optimal user experiences across all devices.
+ReactJs - ReactNative - NextJS - Tailwind - MUI - Antd - Bootstrap : Crafting dynamic, pixel-perfect,
+and high-performance interfaces with modern, intuitive UI/UX, ensuring optimal user experiences across all devices.
 
 ✔️Back-End Development → 
 NodeJs | ExpressJs | NestJS | PHP | CodeIgniter : Crafting robust APIs, server-side logic, and efficient applications.
@@ -39,7 +34,8 @@ NodeJs | ExpressJs | NestJS | PHP | CodeIgniter : Crafting robust APIs, server-s
 * NoSQL Databases: MongoDB, DynamoDB, Redis
 
 ✔️DevOps and Deployment → 
-CI/CD | Docker | PM2 | AWS | DigitalOcean: Automating testing and deployment, containerizing applications, and managing cloud infrastructure.
+CI/CD | Docker | PM2 | AWS | DigitalOcean: Automating testing and deployment, containerizing applications,
+and managing cloud infrastructure.
 
 ✔️ Project Management
  Jira | Trello 
